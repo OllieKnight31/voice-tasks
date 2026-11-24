@@ -1,0 +1,12 @@
+{
+  "_help": "Copy this file to config.json. Keys starting with _ are ignored. Do not put your Notion key in here: it goes in the .env file.",
+  "notion_key_env": "NOTION_API_KEY",
+  "tasks_database_id": "",
+  "tasks_data_source_id": "",
+  "tasks_url": "",
+  "window": ["07:00", "22:00"],
+  "buffer_min": 10,
+  "time_zone": "",
+  "whisper_model": "base",
+  "areas": ["Sales", "Client", "Content", "Marketing", "Operations", "Admin", "Personal"]
+}
